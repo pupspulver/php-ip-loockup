@@ -24,7 +24,7 @@ echo "Your IP Address is: $ip", "<br>" . "<br/>";
 $ipdat = @json_decode(file_get_contents(
     "http://www.geoplugin.net/json.gp?ip=" . $ip));
 
-set_include_path('/var/www/peekip/wp-content/themes/elentra/include/section-parts/Mobile_Detect.php');
+set_include_path('Mobile_Detect.php');
 $detect = new Mobile_Detect();
 ?>
 
