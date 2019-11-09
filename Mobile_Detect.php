@@ -54,7 +54,7 @@ class Mobile_Detect
     const MOBILE_GRADE_B            = 'B';
 
     /**
-     * Low-level device.
+     * Low-level device. 
      */
     const MOBILE_GRADE_C            = 'C';
 
