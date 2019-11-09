@@ -1,10 +1,10 @@
 # PHP IP Lookup
 ### Whats is that?
-It's a simple PHP file to know your IP address. It also shows you more info using a Geolocation Plugin, like the timezone, your Internet provider or your aprox. location. The location is displayed in a OpenStreet Map, and the other info is displayed in a Html table. 
+It's a simple PHP file to know your IP address. It also shows you more info, like the timezone, your Internet provider or your aprox. location using a Geolocation Plugin. The location is displayed in a OpenStreet Map, and the other info in a Html table. 
 
 It's also optimized for phones and tablets using the 'Mobile_Detect.php' file. It automaticaly detects if you're using a phone or not! 
 
-This is a very simple and fancy way to display this info. This is a example executing thsi script in Worpress: https://peekip.ml.
+This is a very simple and fancy way to display this info. This is a example executing the script in Worpress: https://peekip.ml.
 
 ### Requirements
 - PHP 7 or higher
