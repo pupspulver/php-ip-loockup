@@ -4,14 +4,15 @@ It's a simple PHP file to know your IP address.It also shows you more info using
 
 ### Requirements
 - PHP 7 or higher
-This script doesn't need any exernal files. It's all included in the same script.
+
+  This script doesn't need any exernal files. It's all included in the same script.
 
 ### Usage
 ##### For Wordpress users:
-If you use Wordpress, you can use the XYC PHP Code plugin to execute this PHP script in a page using shortcodes. Its very simple to use.
+If you use Wordpress, you can use the 'XYZ PHP Code' plugin to execute this PHP script in a page using shortcodes. Its very simple to use.
 ##### For other users:
-Just execute the 'index.php' file in your webserver. You can clone this repostory on you computer using the command ``` git clone ```
+Just put and execute the 'index.php' file in your webserver. You can clone this repostory on you computer using the command ``` git clone ```
 
-## And that's all, have fun :)
+## And that's all, have fun coding :)
 
 
