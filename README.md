@@ -12,9 +12,9 @@ This is a very simple and fancy way to display this info. This is a example exec
   This script doesn't need any exernal files. It's all included in this repostory. ADVICE: always run this script with the 'Mobile_Detect.php' in the same directory, it needs it. 
 
 ### Usage
-##### For Wordpress users:
+- ##### For Wordpress users:
 If you use Wordpress, you can use the 'XYZ PHP Code' plugin to execute this PHP script in a page using shortcodes. It's very simple to use.
-##### For other users:
+- ##### For other users:
 Just put and execute the 'index.php' file in your webserver. You can clone this repostory on you computer using the command ``` git clone ```
 
 ## And that's all, have fun coding :)
