@@ -2,15 +2,13 @@
 ### Whats is that?
 It's a simple PHP file to know your IP address. It also shows you more info, like the timezone, your Internet provider or your aprox. location using a Geolocation Plugin. The location is displayed in a OpenStreet Map, and the other info in a Html table. 
 
-It's also optimized for phones and tablets using the 'Mobile_Detect.php' library. It automaticaly detects if you're using a phone or not! 
-
 This is a very simple and fancy way to display this info. This is a example executing the script in Worpress: https://peekip.ml.
 
 ### Requirements
 - PHP 7 or higher
 
-  This script doesn't need any exernal files. It's all included in this repostory. ADVICE: always run this script with the 'Mobile_Detect.php' in the same directory, it needs it. 
-
+  This script doesn't need any exernal files. It's all included in this repostory. 
+  
 ### Usage
 - ##### For Wordpress users:
   If you use Wordpress, you can use the 'XYZ PHP Code' plugin to execute this PHP script in a page using shortcodes. It's very simple to use.
